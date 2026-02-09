@@ -1,0 +1,32 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Data files
+data/
+
+# Logs
+logs/
+
+# Ignore any other files you don't want to track
+*.log
+*.tmp
+*.bak
+# Ignore IDE specific files
+.vscode/
+.pycharm/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
